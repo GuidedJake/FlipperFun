@@ -1,9 +1,0 @@
-REM Title: RickRoll Windows by GuidedJake
-REM Version: 1.0
-
-DELAY 1000
-GUI r
-DELAY 500
-STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
-DELAY 500
-ENTER
