@@ -8,4 +8,4 @@ a decent amount of BadUSB and more fun things that I made.
 
 all things here made by the one and only GuidedJake.
 
-use in funny ways and walmart.
+use in funny ways at walmart.
