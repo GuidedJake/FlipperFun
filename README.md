@@ -5,3 +5,7 @@ a decent amount of BadUSB and more fun things that I made.
 ##### picture of flipper zero
 
 -/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+
+all things here made by the one and only GuidedJake.
+
+use in funny ways and walmart.
